@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+    z-index: 0;
+}
+.govde{
+    width: 60%;
+    height: 500px;
+    border: 10px solid black;
+    margin-top: 30px;
+    margin-left: 300px;
+    background-color: white;
+}
+
+.sol{
+    width: 40%;
+    height: 485px;
+    margin: 5px;
+    border: 1px solid black;
+
+}
+
+.foto img{
+    width: 100%;
+    height: 320px;
+}
+
+.footer{
+    width: 100%;
+    height: 160px;
+    background-color: blue;
+    text-align: center;
+    margin-top: -20px;
+}
+
+footer h2{
+    padding: 0px;
+    margin: 0px;
+}
+
+.sag{
+    width: 55%;
+    height: 485px;
+    float: right;
+    margin-right: 20px;
+    margin-top: -490px;
+    border: 2px solid black;
+}
+.navbar a {
+    color: black;
+    margin: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar a:hover {
+    background-color: #575757;
+}
+.content-section {
+    display: none;
+    padding: 20px;
+}
+.content-section.active {
+    display: block;
+}
+
+.kalinlik{
+    width: 60%;
+    height: 90px;
+    background-color: #575757;
+    margin-left: 30px;
+    margin-top: 50px;
+    
+}
+.telegram{
+    margin-top: 100px;
+    display: inline-block;
+    border: 1px solid #575757;
+    border-radius: 30px;
+    margin-left: -20px;
+}
+
+.telegram p{
+    display: inline-block;
+}
+
+.telegram:hover{
+    background-color: blue;
+    color: white;
+}
+
+.gris{
+    display: inline-block;
+    float: right;
+    margin-top: 125px;
+
+}
+.gris i{
+    margin-left: 10px;
+}
