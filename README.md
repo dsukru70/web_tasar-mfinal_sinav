@@ -1,1 +1,3 @@
 # web_tasar-mfinal_sinav
+### Evet normalde izin almam lazım idi ama almadım imşallah Değerli Hocama ayıp olmaz.
+Bu bizim WEB tasarıma giriş dersimizin final sınavı idi tabikide tam olarak bu değildi, ama buna benzer şekilde idi normalde bir ihtimal geçmem gerkirdi amama tamamen dosya hatası yüzünden kaldım galiba yani hocamız da sağolsun gerçekten vicdanlı olunca hak geçmemesi için gerekeni yaptı tekrardan teşekür ediyorum bu dalga geçmek filan için değil gerçekten doğru olan bu idi bu oldu, en azından kafamdaki yatay geçiş ışıkları kapandı :) bu proje de sayfa yenilenöeden içerik değiştirmyeyi hedeflemiştik ve oldu. 
